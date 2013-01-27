@@ -1,0 +1,4 @@
+print "start";
+bar = 3;
+foo();
+print "end";

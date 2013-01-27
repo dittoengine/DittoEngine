@@ -1,0 +1,4 @@
+[4, <script_yacc.StringNode instance at 0x0211C5F8>]
+[0, <script_yacc.IdentifierNode instance at 0x0211C5D0>, <script_yacc.NumberNode instance at 0x0211C238>]
+[5, <script_yacc.IdentifierNode instance at 0x0211C990>, []]
+[4, <script_yacc.StringNode instance at 0x0211C3C8>]
